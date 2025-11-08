@@ -5,7 +5,7 @@ A passionate Frontend Developer from India
 - Email: **pandeyrohit1410@gmail.com**  
 - LinkedIn: [Rohit Pandey](https://www.linkedin.com/in/rohit-pandey-95a742236/)  
 - Portfolio: [rohit-pandey-website.netlify.app](https://rohit-pandey-website.netlify.app/)  
-- 📄 [View my Resume](https://drive.google.com/file/d/1rgJIHgEwtUeSgHNrRZuJFKc3peIR43e4/view?usp=sharing)  
+- 📄 [View my Resume](https://drive.google.com/file/d/1hgolC-IqxUvCZnlEAc3uwOlStdlrAT-6/view?usp=sharing)  
 
 ---
 
